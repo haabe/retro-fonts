@@ -1,0 +1,31 @@
+C64 TrueType Fonts
+
+Copyright (c) 2010-2019 Style
+http://style64.org/c64-truetype
+
+This license is applicable to each font file included in this package
+in all their variants (ttf, otf, eot, woff, woff2, svg).
+
+YOU MAY NOT:
+- Sell this font
+- Include/redistribute the font in any font collection regardless of pricing
+- Provide the font for direct download from any web site
+- Modify or rename the font
+
+YOU MAY:
+- Link to "http://style64.org/c64-truetype" in order for others to download
+  and install the font
+- Embed the font (without any modification or file renaming) for display on
+  any web site using @font-face rules
+- Use this font in static images and vector art
+- Include this font (without any modification or file renaming) as part of
+  a software package but ONLY if said software package is freely provided
+  to end users
+
+You may also contact us to negotiate a (possibly commercial) license for
+your use outside of these guidelines at "http://style64.org/contact-style".
+
+At all times the most recent version of this license can be found at
+"http://style64.org/c64-truetype/license".
+
+Source: http://style64.org/c64-truetype

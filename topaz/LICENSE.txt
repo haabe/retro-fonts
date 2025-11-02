@@ -1,0 +1,36 @@
+Topaz Font
+
+Original Font: Copyright © Amiga Inc.
+TrueType Version: Copyright © 2009 by dMG of Trueschool and Div
+
+This is a TrueType recreation of the classic Amiga Workbench Topaz font.
+
+LICENSE:
+The TrueType version of this font is released for free use.
+
+TERMS OF USE:
+- Free for personal and commercial use
+- No attribution required (but appreciated)
+- May be embedded in documents and websites
+- Do not sell the font by itself
+- Respect the original Amiga Inc. copyright
+
+CREDITS:
+- Original Topaz font design: Amiga Inc.
+- TrueType conversion: dMG of Trueschool and Div
+
+DISCLAIMER:
+THE FONT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE FONT OR THE USE OR
+OTHER DEALINGS IN THE FONT.
+
+Note: This is a TrueType recreation of the classic Amiga Topaz font.
+The original font design is copyright Amiga Inc. This TrueType version
+is a tribute/recreation by the retro computing community.
+
+Source: Classic Amiga Workbench font

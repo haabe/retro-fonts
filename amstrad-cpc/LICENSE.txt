@@ -1,0 +1,29 @@
+Amstrad CPC 464 Font
+
+Version 1.100
+Created by: cpc464
+
+This is a recreation of the classic Amstrad CPC 464 system font.
+
+LICENSE:
+This font is free to use for personal and commercial purposes.
+
+TERMS OF USE:
+- Free for personal and commercial use
+- No attribution required (but appreciated)
+- May be modified and redistributed
+- Do not sell the font by itself
+
+DISCLAIMER:
+THE FONT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE FONT OR THE USE OR
+OTHER DEALINGS IN THE FONT.
+
+Note: This is a recreation/tribute font inspired by the original
+Amstrad CPC 464 system font. The original Amstrad CPC character
+set is considered to be in the public domain.

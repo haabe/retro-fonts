@@ -1,0 +1,24 @@
+Unscii Font
+
+Created by Viznut (Ville-Matias Heikkilä)
+
+This font is in the PUBLIC DOMAIN.
+
+You are free to:
+- Use the font for any purpose
+- Modify the font
+- Distribute the font
+- Use it commercially
+- No attribution required (but appreciated)
+
+DISCLAIMER:
+THE FONT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR
+ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE FONT OR THE USE OR OTHER DEALINGS IN THE FONT.
+
+Source: http://pelulamu.net/unscii/
+Repository: https://github.com/viznut/unscii
