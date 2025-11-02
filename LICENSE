@@ -1,7 +1,6 @@
 MIT License
 
 Copyright (c) 2025 Håvard Bartnes
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -19,3 +18,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Font Licenses
+
+The fonts in this repository are subject to their original licenses:
+
+- **VT323**: SIL Open Font License 1.1 (see vt323/LICENSE.txt)
+- **C64**: Free for personal and commercial use (see c64/LICENSE.txt)
+- **Terminus**: SIL Open Font License 1.1 (see terminus/LICENSE.txt)
+- **Unscii**: Public Domain (see unscii/LICENSE.txt)
+- **Funscii**: CC0 1.0 Universal (see funscii/LICENSE.txt)
+- **CP437**: MIT License (see cp437/LICENSE.txt)
+- **Tom Thumb**: CC0 1.0 Universal (see tom-thumb/LICENSE.txt)
+
+This MIT License applies to the repository structure, conversion scripts, 
+and documentation. The fonts themselves remain under their original licenses.
